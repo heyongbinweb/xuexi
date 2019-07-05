@@ -3,19 +3,21 @@ body{
 	padding: 0px;
 	background-color: #68cdd5;
 	min-width:320px;
+	height: 605px;
 }
 p{
 	color: white;
-	font-size: 20px;
+	font-size: 16px;
 	padding: 16%;
 	letter-spacing: 5px;
-	line-height:40px;
+	line-height:30px;
+	margin: 0;
 }
 .wrap-top{
 	margin: 2% auto auto 2%;
 }
 .wrap-logo{
-    margin-top: 50px;	
+    margin-top: 25px;	
 	text-align:center;
 }
 .p3{padding-bottom: 5px;}
@@ -26,9 +28,9 @@ p{
 }
 .fot-left{
 	float: left;	
-	margin-left: 55px
+	margin-left: 50px
 }
 .fot-right{
 	float: right;
-	margin-right: 55px;
+	margin-right: 50px;
 }
