@@ -2,7 +2,6 @@ body{
 	margin:0 auto;
 	padding: 0px;
 	background-color: #68cdd5;
-	min-width:320px;
 	height: 605px;
 }
 p{
@@ -25,12 +24,13 @@ p{
 .fot{
 	color: #fff;
 	text-align: center;
+	margin-top: 20px;
 }
 .fot-left{
 	float: left;	
-	margin-left: 50px
+	margin-left: 15%;
 }
 .fot-right{
 	float: right;
-	margin-right: 50px;
+	margin-right: 15%;
 }
